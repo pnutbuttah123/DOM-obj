@@ -11,8 +11,6 @@ var hotels = {
     roomsAvail: function() {
         return this.rooms - this.roomsBooked;
         
-        
-        
     }
 };
 

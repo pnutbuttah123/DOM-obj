@@ -1,0 +1,7 @@
+t init
+  754  git add .
+  755  git commit -m "My First Commit"
+  756  git remote add origin git@github.com:pnutbuttah123/DOM-obj.git
+  757  git push -u origin master
+  758  touch readme
+
